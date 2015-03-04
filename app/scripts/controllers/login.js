@@ -8,7 +8,7 @@
  * Controller of the vetClientApp
  */
 angular.module('vetClientApp')
-  .controller('AboutCtrl', function ($scope) {
+  .controller('LoginCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
